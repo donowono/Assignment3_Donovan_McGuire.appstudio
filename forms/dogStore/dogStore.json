@@ -25,25 +25,34 @@
         "forms",
         "dogStore",
         "Elements",
-        "btn1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "inpt1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
         "btn2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "btn3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "sel1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "dogStore",
+        "Elements",
+        "lblWish.json"
       ]
     }
   ],
