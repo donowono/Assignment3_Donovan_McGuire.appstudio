@@ -18,7 +18,7 @@
   "fontSize": 16,
   "fontStyle": "",
   "fontWeight": "bold",
-  "height": 205,
+  "height": 113,
   "hidden": "",
   "id": "lbl1",
   "left": 28,
@@ -46,5 +46,5 @@
   "style": "",
   "text": "",
   "top": 9,
-  "width": 229
+  "width": 270
 }
