@@ -1,6 +1,7 @@
-/*
+
 let cities = []
 let i = 0
+let t = 0
 let doneWithCities = false
 while(doneWithCities == false){
     cities[i] = prompt('Enter the next city:')
@@ -9,8 +10,7 @@ while(doneWithCities == false){
 
     }
 
-while ( i < cities.length){
-    console.log(cities.values().toLowerCase())
-    i++
-    }
-*/
+while ( t < cities.length){
+    console.log(cities[t].toLowerCase())
+    t++
+}
