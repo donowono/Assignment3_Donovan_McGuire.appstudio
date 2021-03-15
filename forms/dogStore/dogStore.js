@@ -4,7 +4,7 @@ let wishList  = []
 
 
 sel1.onchange = function(){
-  lbl1.textContent = storeProducts.value
+  lblWish.textContent = storeProducts.value
 }
 
 btn3.onclick = function(){
