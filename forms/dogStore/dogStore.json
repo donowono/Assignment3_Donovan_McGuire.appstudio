@@ -16,24 +16,6 @@
         "forms",
         "dogStore",
         "Elements",
-        "lbl1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
-        "btn2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "dogStore",
-        "Elements",
         "btn3.json"
       ]
     },
